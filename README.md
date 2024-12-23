@@ -10,23 +10,11 @@
 
 ###
 
-<p align="left">✨ Mis primeros pasos en programación fueron a través de videos de youtube hace unos 2 años...<br>📚 Actualmente estoy estudiando la Tecnicatura en Programacion en la UTNFRGP.<br>🎯 Mi meta es desarrollarme como programador backend.<br>🎲 En mi tiempo libre entreno y juego videojuegos.</p>
+<p align="left">✨ Mis primeros pasos en programación fueron a través de videos de youtube hace unos 2 años...<br>📚 Me recibí de Técnico en Programación en la UTNFRGP.<br>🎯 Mi meta es desarrollarme como programador backend.<br>🎲 En mi tiempo libre entreno y juego videojuegos.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
 
 ###
 
